@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cemal</h1>
-<h3 align="center">Harware Engineer from Turkey</h3>
+<h3 align="center">Hardware Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Avionics Hardwares**
 
