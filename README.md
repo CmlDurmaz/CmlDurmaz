@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cemal</h1>
-<h3 align="center">A passionate Embedded Developer from Turkey</h3>
+<h3 align="center">Harware Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Embedded Projects**
+- 🔭 I’m currently working on **Avionics Hardwares**
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence & R Language**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Aerospace & IoT**
 
 - 📫 How to reach me **cemal.durmaz@outlook.com**
 
